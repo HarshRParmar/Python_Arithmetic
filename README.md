@@ -1,5 +1,5 @@
 # Python_Arithmetic
-All possible arithmetic operations using Gemini code create prompts
+All possible arithmetic operations using GenAI prompts
 
 #The code currently uses the following Gemini (Model: Thinking with 3 Pro)  & CoPuilot Thinking prompt.
 
